@@ -1,5 +1,5 @@
 import unittest
-from forca_bruta import forca_bruta
+from ataque_forca_bruta import forca_bruta
 
 class TestForcaBruta(unittest.TestCase):
     def test_forca_bruta_senha_curta(self):
